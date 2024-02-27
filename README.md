@@ -31,20 +31,8 @@ AWS RDS와 EC2를 사용하여 클라우드 기반의 인프라를 설계 및 �
 - 버전 관리 with Git: 프로젝트 개발 과정에서 Git을 활용한 효과적인 소스 코드 관리 및 협업 경험.
 - AWS를 통한 배포: AWS EC2 인스턴스및 RDS를 사용하여 우분투 환경에서 maven빌더 사용
 >[프로젝트 상세 설명](https://github.com/chanakoh/camply/tree/master) 참고
-### 2.[JPA Shop]
->JPA를 활용한 쇼핑몰 만들기(개인 프로젝트)
->개발기간: 2023.12
->
->기술 스택:Java, Spring, JPA, Oracle, HTML, CSS
->[프로젝트 상세 설명] 
-[**Back-End]**
-- Spring Boot를 사용하여 초기 설정과 구성을 간편하게 처리
-- Spring MVC패턴을 통해 사용자 인터페이스와 비즈니스 로직 분리
-- JPA를 사용하여 데이터베이스와의 상호작용 단순화
 
-[**Front-End]**
-- Thymeleaf를 사용하여 쇼핑몰 화면 구성 및 동적인 웹 페이지 생성
-### 3.[가지마켓](https://github.com/chanakoh/Gazi_Market/tree/master)
+### 2.[가지마켓](https://github.com/chanakoh/Gazi_Market/tree/master)
 >서블릿과 JDBC를 이용한 팀 프로젝트</br>
 >개발기간: 2023.11</br>
 >기술 스택:Java, Servlet, JDBC, Oracle, HTML, CSS</br>
