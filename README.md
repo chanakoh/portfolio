@@ -14,8 +14,8 @@ AWS RDS와 EC2를 사용하여 클라우드 기반의 인프라를 설계 및 �
 
 ## :pushpin: Projects
 ### 1.[Camply](https://github.com/chanakoh/camply/tree/master)
->개발기간: 2024.1~2024.2
->기술스택: Java, Spring, MyBatis, Oracle, React, Git, AWS
+>개발기간: 2024.1~2024.2</br>
+>기술스택: Java, Spring, MyBatis, Oracle, React, Git, AWS</br>
 >**[Back-End]**
 - Spring MVC 사용: 사용자 인터페이스와 비즈니스 로직의 분리 및 관리를 위해 Spring MVC 패턴 적용.
 - MyBatis 데이터 연동: Oracle 데이터베이스와의 연동을 위해 MyBatis의 XML Mapper 활용.
@@ -44,9 +44,9 @@ AWS RDS와 EC2를 사용하여 클라우드 기반의 인프라를 설계 및 �
 [**Front-End]**
 - Thymeleaf를 사용하여 쇼핑몰 화면 구성 및 동적인 웹 페이지 생성
 ### 3.[가지마켓](https://github.com/chanakoh/Gazi_Market/tree/master)
->서블릿과 JDBC를 이용한 팀 프로젝트
->개발기간: 2023.11
->기술 스택:Java, Servlet, JDBC, Oracle, HTML, CSS
+>서블릿과 JDBC를 이용한 팀 프로젝트</br>
+>개발기간: 2023.11</br>
+>기술 스택:Java, Servlet, JDBC, Oracle, HTML, CSS</br>
 >**[Back-End]**
 - JDBC를 이용한 데이터베이스 연결 및 조작: 직접적인 JDBC API 사용을 통해 Oracle 데이터베이스 연결, 쿼리 실행 및 결과 처리.
 - CRUD 연산 구현: 자바 클래스와 SQL을 활용하여 데이터 생성(Create), 조회(Read), 업데이트(Update), 삭제(Delete) 기능 구현.
